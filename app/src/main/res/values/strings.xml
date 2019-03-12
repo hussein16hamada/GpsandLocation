@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GPS</string>
+    <string name="warning">warning</string>
+    <string name="loacationExplanation">Pleas allow Location Permission</string>
+    <string name="ok">ok</string>
+    <string name="google_maps_key" translatable="false">
+AIzaSyBupQaRF2kBSncj38GCa9On5WdCTfViOAQ
+    </string>
+    <string name="title_activity_maps">Map</string>
+</resources>
